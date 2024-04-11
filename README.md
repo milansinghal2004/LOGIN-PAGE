@@ -4,7 +4,7 @@ Title: "Secure HTML/CSS Login Page Repository"  Description: Dive into our GitHu
 
 <div align="center">
   <h1>Secure HTML/CSS Login Page Repository</h1>
-  <p>Welcome to our GitHub repository dedicated to providing a secure and responsive login page solution built with HTML and CSS.</p>
+  <p>Welcome to our GitHub repository dedicated to providing a secure and responsive login page solution built with HTML and CSS.</p> 
 </div>
 
 ## 🚀 Features
